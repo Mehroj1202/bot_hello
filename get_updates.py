@@ -18,7 +18,7 @@ def get_text_from_update(update):
 
 
 
-
+chat_id=6239343613
 # Loop get updates
 while True:
     # Get updates
